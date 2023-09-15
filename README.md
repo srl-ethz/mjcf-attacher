@@ -1,1 +1,2 @@
-# mjcf-attacher
+# mjcf_xml_attacher
+A Python-based tool designed to seamlessly integrate two MJCF (MuJoCo XML) robot models. This tool is particularly useful for attaching modular robotic components, such as affixing a robot hand model to the tip of a robot arm model. With RoboAssembler, you can easily customize and build complex robotic systems, enhancing the flexibility and adaptability of your robotics projects.
